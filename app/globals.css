@@ -14,6 +14,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --font-geist-sans: 'Geist Sans', sans-serif;
+    --font-geist-mono: 'Geist Mono', monospace;
     --background: #0a0a0a;
     --foreground: #ededed;
   }
